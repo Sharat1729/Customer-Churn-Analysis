@@ -30,7 +30,8 @@ This project involves the development of an interactive Power BI dashboard to an
 2. Provides insights into customer subscriptions.
 3. Aids stakeholders in decision-making regarding customer retention strategies.
    
-   ![image](https://github.com/user-attachments/assets/b3b66db2-b9c0-429a-bb83-38d87dd4bd6f)
+  ![image](https://github.com/user-attachments/assets/e91a10f2-da00-4780-a25a-6b5ad79bf87a)
+
 
 
 
@@ -40,6 +41,7 @@ This project involves the development of an interactive Power BI dashboard to an
 2. Examines the type of contract, year of contract, and churn rate per each service.
 3.  Helps in understanding and mitigating customer churn risks.
 
-   ![image](https://github.com/user-attachments/assets/a78c70e8-e564-4236-9020-68393ad61832)
+   ![image](https://github.com/user-attachments/assets/69aaab23-ffbd-4684-828a-b92d067f87a5)
+
 
 
